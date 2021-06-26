@@ -12,6 +12,8 @@ usages:
 /plugins/test/re3.jsp rebeyond 冰蝎3.0
 /plugins/test/god.jsp pass  哥斯拉v1.0 =>> v3.03
 
+./src/plugins/test/src/web/god.jsp
+
 /plugins/servlet/chropper?
 /plugins/servlet/test?
 ```
