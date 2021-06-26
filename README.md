@@ -9,8 +9,8 @@ jdk1.6
 usages:
 
 /plugins/test/re2.jsp pass 冰蝎2.0 
-/plugins/re3.jsp rebeyond 冰蝎3.0
-/plugins/god.jsp pass  哥斯拉v1.0
+/plugins/test/re3.jsp rebeyond 冰蝎3.0
+/plugins/test/god.jsp pass  哥斯拉v1.0 =>> v3.03
 
 /plugins/servlet/chropper?
 /plugins/servlet/test?
